@@ -1,0 +1,110 @@
+Location served,State,ICAO,IATA,type of airport,Airport name
+Aachen,North Rhine-Westphalia,EDKA,AAH,Civil airports,Aachen-Merzbrück Airport
+Allendorf,Hesse,EDFQ,,Civil airports,Allendorf Airport
+Altenburg,Thuringia,EDAC,AOC,Civil airports,Leipzig-Altenburg Airport
+Augsburg,Bavaria,EDMA,AGB,Civil airports,Augsburg Airport
+Bad Gandersheim,Lower Saxony,EDVA,,Civil airports,Bad Gandersheim Aerodrome
+Bad Kissingen,Bavaria,EDFK,,Civil airports,Bad Kissingen Airfield
+Bamberg,Bavaria,EDQA / ETEJ,ZCD,Civil airports,Bamberg-Breitenau Airfield
+Barth,Mecklenburg-Vorpommern,EDBH,BBH,Civil airports,Stralsund–Barth Airport
+Berlin,Brandenburg,EDDB,BER,Civil airports,Berlin Brandenburg Airport
+Bindlach,Bavaria,EDQD,BYU,Civil airports,Bayreuth Airport
+Bitburg,Rhineland-Palatinate,EDRB,BBJ,Civil airports,Bitburg Airport
+Borkum,Lower Saxony,EDWR,BMK,Civil airports,Borkum Airfield
+Bramsche,Lower Saxony,EDXA,,Civil airports,Achmer Aerodrome
+Braunschweig,Lower Saxony,EDVE,BWE,Civil airports,Braunschweig Wolfsburg Airport
+Bremen,Free Hanseatic City of Bremen,EDDW,BRE,Civil airports,Bremen Airport
+Cologne,North Rhine-Westphalia,EDDK,CGN,Civil airports,Cologne Bonn Airport
+Cuxhaven,Lower Saxony,ETMN,FCN,Civil airports,Sea-Airport Cuxhaven/Nordholz
+Dortmund,North Rhine-Westphalia,EDLW,DTM,Civil airports,Dortmund Airport
+Dresden,Saxony,EDDC,DRS,Civil airports,Dresden Airport
+Düsseldorf,North Rhine-Westphalia,EDDL,DUS,Civil airports,Düsseldorf Airport
+Düsseldorf,North Rhine-Westphalia,EDLN,MGL,Civil airports,Mönchengladbach Airport
+Egelsbach,Hesse,EDFE,,Civil airports,Frankfurt Egelsbach Airport
+Emden,Lower Saxony,EDWE,EME,Civil airports,Emden Airport
+Erfurt,Thuringia,EDDE,ERF,Civil airports,Erfurt-Weimar Airport
+Frankfurt am Main,Hesse,EDDF,FRA,Civil airports,Frankfurt Airport
+Freiburg im Breisgau,Baden-Württemberg,EDTF,QFB,Civil airports,Freiburg Airport
+Friedrichshafen,Baden-Württemberg,EDNY,FDH,Civil airports,Friedrichshafen Airport
+Giebelstadt,Bavaria,EDQG / ETEU,GHF,Civil airports,Giebelstadt Airport
+Hahn,Rhineland-Palatinate,EDFH,HHN,Civil airports,Frankfurt-Hahn Airport
+Hamburg,Hamburg,EDDH,HAM,Civil airports,Hamburg Airport
+Hamburg,Hamburg,EDHI,XFW,Civil airports,Airbus Hamburg-Finkenwerder
+Hannover,Lower Saxony,EDDV,HAJ,Civil airports,Hannover Airport
+Heide,Schleswig-Holstein,EDXB,HEI,Civil airports,Heide-Büsum Airport
+Heist,Schleswig-Holstein,EDHE,,Civil airports,Uetersen Airfield
+Heligoland,Schleswig-Holstein,EDXH,HGL,Civil airports,Heligoland Airfield
+Heringsdorf,Mecklenburg-Vorpommern,EDAH,HDF,Civil airports,Heringsdorf Airport
+Hof,Bavaria,EDQM,HOQ,Civil airports,Hof-Plauen Airport
+Hoppstädten,Rhineland-Palatinate,EDRH,,Civil airports,Hoppstädten-Weiersbach Airfield
+Ingolstadt,Bavaria,ETSI,IGS,Civil airports,Ingolstadt Manching Airport
+Karlsruhe,Baden-Württemberg,EDSB,FKB,Civil airports,Karlsruhe/Baden-Baden Airport
+Kassel,Hesse,EDVK,KSF,Civil airports,Kassel Airport
+Kiel,Schleswig-Holstein,EDHK,KEL,Civil airports,Kiel Airport
+Lahr,Baden-Württemberg,EDTL,LHA,Civil airports,Flughafen Lahr
+Langenlonsheim,Rhineland-Palatinate,EDEL,,Civil airports,Langenlonsheim Airfield
+Leipzig,Saxony,EDDP,LEJ,Civil airports,Leipzig/Halle Airport
+Lübeck,Schleswig-Holstein,EDHL,LBC,Civil airports,Lübeck Airport
+Magdeburg,Saxony-Anhalt,EDBC,CSO,Civil airports,Magdeburg-Cochstedt Airport
+Mainz,Rhineland-Palatinate,EDFZ,,Civil airports,Mainz-Finthen Airport
+Mannheim,Baden-Württemberg,EDFM,MHG,Civil airports,Mannheim City Airport
+Memmingen,Bavaria,EDJA,FMM,Civil airports,Memmingen Airport
+Munich,Bavaria,EDDM,MUC,Civil airports,Munich Airport
+Münster,North Rhine-Westphalia,EDDG,FMO,Civil airports,Münster Osnabrück International Airport
+Nannhausen,Rhineland-Palatinate,EDRN,,Civil airports,Nannhausen Airfield
+Neubrandenburg,Mecklenburg-Vorpommern,EDBN / ETNU,FNB,Civil airports,Neubrandenburg Airport
+Neuhardenberg,Brandenburg,EDON,,Civil airports,
+Nuremberg,Bavaria,EDDN,NUE,Civil airports,Nuremberg Airport
+Osnabrück,Lower Saxony,EDWO,,Civil airports,Atterheide Airfield
+Paderborn,North Rhine-Westphalia,EDLP,PAD,Civil airports,Paderborn Lippstadt Airport
+Rechlin,Mecklenburg-Vorpommern,EDAX,REB,Civil airports,Rechlin-Lärz Airfield
+Rostock,Mecklenburg-Vorpommern,ETNL,RLG,Civil airports,Rostock-Laage Airport
+Saarbrücken,Saarland,EDDR,SCN,Civil airports,Saarbrücken Airport
+Siegen,North Rhine-Westphalia,EDGS,SGE,Civil airports,Siegerland Airport
+Stadtlohn,North Rhine-Westphalia,EDLS,,Civil airports,Stadtlohn-Vreden Airport
+Stuttgart,Baden-Württemberg,EDDS,STR,Civil airports,Stuttgart Airport
+Trier,Rhineland-Palatinate,EDRT,,Civil airports,Trier-Föhren Airfield
+Wangerooge,Lower Saxony,EDWG,AGE,Civil airports,Wangerooge Airfield
+Weeze,North Rhine-Westphalia,EDLV,NRN,Civil airports,Weeze Airport
+Westerland,Schleswig-Holstein,EDXW,GWT,Civil airports,Sylt Airport
+Zweibrücken,Rhineland-Palatinate,EDRZ,ZQW,Civil airports,Zweibrücken Airport
+Altenstadt,Bavaria,ETHA,,Military airports,Altenstadt Air Base
+Baumholder,Rhineland-Palatinate,ETEK,,Military airports,Baumholder Army Airfield
+Büchel,Rhineland-Palatinate,ETSB,,Military airports,Büchel Air Base
+Bückeburg,Lower Saxony,ETHB,,Military airports,Bückeburg Air Base
+Celle,Lower Saxony,ETHC,ZCN,Military airports,Celle Air Base
+Diepholz,Lower Saxony,ETND,,Military airports,Diepholz Air Base
+Erding,Bavaria,ETSE,,Military airports,Erding Air Base
+Faßberg,Lower Saxony,ETHS,,Military airports,Faßberg Air Base
+Fritzlar,Hesse,ETHF,FRZ,Military airports,Fritzlar Air Base
+Fürstenfeldbruck,Bavaria,ETSF,FEL,Military airports,Fürstenfeldbruck Air Base
+Geilenkirchen,North Rhine-Westphalia,ETNG,GKE,Military airports,NATO Air Base Geilenkirchen
+Grafenwöhr,Bavaria,ETIC,,Military airports,Grafenwöhr Army Airfield
+Hohenfels,Bavaria,ETIH,,Military airports,Hohenfels Army Airfield
+Hohn,Schleswig-Holstein,ETNH,,Military airports,Hohn Air Base
+Holzdorf,Saxony-Anhalt,ETSH,,Military airports,Holzdorf Air Base
+Jever,Lower Saxony,ETNJ,,Military airports,Jever Air Base
+Landsberg am Lech,Bavaria,ETSA,,Military airports,Landsberg-Lech Air Base
+Laupheim,Baden-Württemberg,ETHL,,Military airports,Laupheim Air Base
+Klosterlechfeld,Bavaria,ETSL,,Military airports,Lechfeld Air Base
+Mannheim,Baden-Württemberg,ETOR,,Military airports,Coleman Army Airfield
+Meppen,Lower Saxony,ETWM,,Military airports,Meppen Air Base
+Neuburg an der Donau,Bavaria,ETSN,,Military airports,Neuburg Air Base
+Niederstetten,Baden-Württemberg,ETHN,,Military airports,Niederstetten Air Base
+Nordholz,Lower Saxony,ETMN,NDZ,Military airports,Nordholz Air Base
+Nörvenich,North Rhine-Westphalia,ETNN,QOE,Military airports,Nörvenich Air Base
+Ramstein-Miesenbach,Rhineland-Palatinate,ETAR,RMS,Military airports,Ramstein Air Base
+Rheine,North Rhine-Westphalia,ETHE,ZPQ,Military airports,Rheine-Bentlage Air Base
+Roth,Bavaria,ETHR,,Military airports,Roth Air Base
+Schleswig,Schleswig-Holstein,ETNS,WBG,Military airports,Schleswig Air Base
+Spangdahlem,Rhineland-Palatinate,ETAD,SPM,Military airports,Spangdahlem Air Base
+Wiesbaden,Hesse,ETOU,WIE,Military airports,Wiesbaden Army Airfield
+Wittmund,Lower Saxony,ETNT,,Military airports,Wittmundhafen Air Base
+Wunstorf,Lower Saxony,ETNW,,Military airports,Wunstorf Air Base
+Berlin,Brandenburg,EDDB,SXF,Former airports,Berlin Schönefeld Airport
+Berlin,Berlin,EDDT,TXL,Former airports,Berlin Tegel Airport
+Berlin,Berlin,EDDI,THF,Former airports,Berlin Tempelhof Airport
+Bremerhaven,Free Hanseatic City of Bremen,EDWB,BRV,Former airports,Bremerhaven Airport
+Cologne,North Rhine-Westphalia,ETBB,,Former airports,Cologne Butzweilerhof Airport
+Hopsten,North Rhine-Westphalia,ETNP,,Former airports,Rheine-Hopsten Airbase
+Munich,Bavaria,EDDM,MUC,Former airports,Munich-Riem Airport
